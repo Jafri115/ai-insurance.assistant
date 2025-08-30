@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Fine-tune Insurance Model",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/fine_tune.py",
+      "args": [
+        "--model_name",
+        "microsoft/DialoGPT-medium",
+        "--dataset_path",
+        "data/processed/train.json",
+        "--output_dir",
+        "models/insurance-assistant",
+        "--num_epochs",
+        "3"
+      ],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Evaluate Model",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/evaluate.py",
+      "args": [
+        "--model_path",
+        "models/insurance-assistant",
+        "--test_data",
+        "data/processed/validation.json"
+      ],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Launch Gradio App",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/app.py",
+      "args": [
+        "--interface",
+        "gradio",
+        "--port",
+        "7860"
+      ],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Preprocess Data",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/data/preprocess.py",
+      "args": [
+        "--input",
+        "data/raw/",
+        "--output",
+        "data/processed/"
+      ],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What information is available in the kaggle insurance dataset?",
+    "answer": "The kaggle insurance dataset contains 127037 records with information about: id, Response. This data helps understand patterns and factors affecting insurance policies.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_sample_submission.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the kaggle insurance data?",
+    "answer": "The dataset includes 127,037 insurance records with 2 different attributes. This provides a substantial sample size for analyzing kaggle insurance patterns and trends.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_sample_submission.csv",
+    "data_source": "meta"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What are the different smoker options in health insurance?",
+    "output": "The smoker options include: yes, no. These represent different categories that affect insurance pricing and coverage."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What is the average charges in health insurance?",
+    "output": "Based on the data, the average charges is $13270.42, with a median of $9382.03. This indicates the typical cost range for this type of insurance."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What are the different sex options in health insurance?",
+    "output": "The sex options include: female, male. These represent different categories that affect insurance pricing and coverage."
+  }
+]

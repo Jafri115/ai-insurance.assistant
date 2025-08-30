@@ -205,3 +205,50 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project specific (ML) ---
+# Weights, checkpoints, and large artifacts
+*.safetensors
+*.ckpt
+*.pt
+*.onnx
+*.tflite
+*.h5
+
+# Trainer/optimizer states and temp binaries
+*.bin
+*.npz
+*.npy
+*.pkl
+*.joblib
+
+# Hugging Face / model outputs inside repo
+# Keep lightweight config/tokenizer files but ignore large model files by default
+models/**
+!models/**/README.md
+!models/**/adapter_config.json
+!models/**/merges.txt
+!models/**/special_tokens_map.json
+!models/**/tokenizer_config.json
+!models/**/tokenizer.json
+!models/**/tokenizer.model
+!models/**/vocab.json
+
+# Data artifacts (keep small metadata)
+data/raw/**
+!data/raw/*.md
+!data/raw/*.txt
+!data/raw/dataset_inventory.json
+
+# Keep training_data JSONs checked in; ignore exploratory outputs and caches
+data/processed/exploration_results/**
+data/processed/**/cache/**
+
+# Experiment tracking and logs
+wandb/
+logs/
+dashboards/logs/
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini

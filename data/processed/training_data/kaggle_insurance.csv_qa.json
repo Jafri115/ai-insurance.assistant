@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the different sex options in kaggle insurance?",
+    "answer": "The sex options include: female, male. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different smoker options in kaggle insurance?",
+    "answer": "The smoker options include: yes, no. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different region options in kaggle insurance?",
+    "answer": "The region options include: southwest, southeast, northwest, northeast. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What information is available in the kaggle insurance dataset?",
+    "answer": "The kaggle insurance dataset contains 1338 records with information about: age, sex, bmi, children, smoker, region, expenses. This data helps understand patterns and factors affecting insurance policies.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the kaggle insurance data?",
+    "answer": "The dataset includes 1,338 insurance records with 7 different attributes. This provides a substantial sample size for analyzing kaggle insurance patterns and trends.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "meta"
+  }
+]

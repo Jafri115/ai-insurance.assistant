@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What are the different sex options in public insurance?",
+    "answer": "The sex options include: female, male. These represent different categories that affect insurance pricing and coverage.",
+    "category": "public",
+    "difficulty": "basic",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different smoker options in public insurance?",
+    "answer": "The smoker options include: yes, no. These represent different categories that affect insurance pricing and coverage.",
+    "category": "public",
+    "difficulty": "basic",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different region options in public insurance?",
+    "answer": "The region options include: southwest, southeast, northwest, northeast. These represent different categories that affect insurance pricing and coverage.",
+    "category": "public",
+    "difficulty": "basic",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What is the average charges in public insurance?",
+    "answer": "Based on the data, the average charges is $13270.42, with a median of $9382.03. This indicates the typical cost range for this type of insurance.",
+    "category": "public",
+    "difficulty": "intermediate",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What information is available in the public insurance dataset?",
+    "answer": "The public insurance dataset contains 1338 records with information about: age, sex, bmi, children, smoker, region, charges. This data helps understand patterns and factors affecting insurance policies.",
+    "category": "public",
+    "difficulty": "basic",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the public insurance data?",
+    "answer": "The dataset includes 1,338 insurance records with 7 different attributes. This provides a substantial sample size for analyzing public insurance patterns and trends.",
+    "category": "public",
+    "difficulty": "basic",
+    "source": "generated_from_public_insurance_medical_cost.csv",
+    "data_source": "meta"
+  }
+]

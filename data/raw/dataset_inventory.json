@@ -1,0 +1,44 @@
+{
+  "real_datasets": [
+    {
+      "name": "insurance_sample",
+      "path": "..\\data\\raw\\public\\health_insurance\\insurance_medical_cost.csv",
+      "description": "Medical Cost Personal Dataset",
+      "source": "public_url",
+      "category": "health_insurance"
+    },
+    {
+      "name": "mirichoi0218/insurance",
+      "path": "..\\data\\raw\\kaggle\\health_insurance\\insurance.csv",
+      "description": "Medical Cost Personal Dataset - insurance.csv",
+      "source": "kaggle",
+      "category": "health_insurance"
+    },
+    {
+      "name": "anmolkumar/health-insurance-cross-sell-prediction",
+      "path": "..\\data\\raw\\kaggle\\vehicle_insurance\\train.csv",
+      "description": "Vehicle Insurance Dataset - train.csv",
+      "source": "kaggle",
+      "category": "vehicle_insurance"
+    },
+    {
+      "name": "noordeen/insurance-premium-prediction",
+      "path": "..\\data\\raw\\kaggle\\premium_prediction\\insurance.csv",
+      "description": "Insurance Premium Analysis - insurance.csv",
+      "source": "kaggle",
+      "category": "premium_prediction"
+    }
+  ],
+  "synthetic_categories": [
+    "health_insurance",
+    "auto_insurance",
+    "life_insurance",
+    "home_insurance",
+    "business_insurance",
+    "general_insurance",
+    "claims_process",
+    "specialty_insurance"
+  ],
+  "download_timestamp": "2025-08-28T19:00:27.530092",
+  "total_files": 12
+}

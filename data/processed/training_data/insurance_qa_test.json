@@ -1,0 +1,161 @@
+[
+  {
+    "question": "What is the average Annual Premium in kaggle insurance?",
+    "answer": "Based on the data, the average Annual Premium is $30524.64, with a median of $31642.00. This indicates the typical cost range for this type of insurance.",
+    "category": "kaggle",
+    "difficulty": "intermediate",
+    "source": "generated_from_kaggle_test.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "How does Age relate to Policy Sales Channel in kaggle insurance?",
+    "answer": "There is a negatively correlated relationship (correlation: -0.57) between Age and Policy Sales Channel. This means they tend to change together in the same/opposite direction.",
+    "category": "kaggle",
+    "difficulty": "advanced",
+    "source": "generated_from_kaggle_test.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What is comprehensive health insurance coverage?",
+    "answer": "Comprehensive health insurance coverage includes medical, surgical, and hospital expenses. It typically covers preventive care, emergency services, prescription drugs, mental health services, and specialized treatments. Most plans also include coverage for pre-existing conditions under the Affordable Care Act.",
+    "category": "health_insurance",
+    "difficulty": "basic",
+    "source": "synthetic_expert",
+    "data_source": NaN,
+    "keywords": [
+      "health",
+      "coverage",
+      "medical",
+      "preventive",
+      "emergency"
+    ]
+  },
+  {
+    "question": "What are the different gender options in kaggle insurance?",
+    "answer": "The gender options include: male, female. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What is the typical insurance claims process?",
+    "answer": "The insurance claims process typically involves: 1) Reporting the incident to your insurance company promptly, 2) Providing detailed information and documentation, 3) Insurance adjuster investigation and assessment, 4) Damage evaluation and estimate, 5) Coverage determination based on policy terms, 6) Settlement negotiation if applicable, 7) Payment processing and claim closure.",
+    "category": "claims_process",
+    "difficulty": "intermediate",
+    "source": "synthetic_expert",
+    "data_source": NaN,
+    "keywords": [
+      "claims process",
+      "adjuster",
+      "investigation",
+      "settlement",
+      "policy terms"
+    ]
+  },
+  {
+    "question": "What are the different Vehicle Age options in kaggle insurance?",
+    "answer": "The Vehicle Age options include: > 2 Years, 1-2 Year, < 1 Year. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_train.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What information is available in the kaggle insurance dataset?",
+    "answer": "The kaggle insurance dataset contains 381109 records with information about: id, Gender, Age, Driving License, Region Code, Previously Insured, Vehicle Age, Vehicle Damage.... This data helps understand patterns and factors affecting insurance policies.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_train.csv",
+    "data_source": "meta",
+    "keywords": NaN
+  },
+  {
+    "question": "What information is available in the insurance insurance dataset?",
+    "answer": "The insurance insurance dataset contains 1338 records with information about: age, sex, bmi, children, smoker, region, charges. This data helps understand patterns and factors affecting insurance policies.",
+    "category": "insurance",
+    "difficulty": "basic",
+    "source": "generated_from_insurance_insurance.csv",
+    "data_source": "meta",
+    "keywords": NaN
+  },
+  {
+    "question": "Do I need umbrella insurance?",
+    "answer": "Umbrella insurance provides additional liability coverage beyond your standard auto and homeowners policies. Consider it if you have significant assets to protect, engage in high-risk activities, employ domestic workers, or want extra protection against large lawsuits. It's relatively inexpensive for the coverage amount and can protect against judgments that exceed your primary policy limits.",
+    "category": "specialty_insurance",
+    "difficulty": "intermediate",
+    "source": "synthetic_expert",
+    "data_source": NaN,
+    "keywords": [
+      "umbrella insurance",
+      "liability coverage",
+      "assets",
+      "lawsuit protection",
+      "policy limits"
+    ]
+  },
+  {
+    "question": "What are the different Vehicle Age options in kaggle insurance?",
+    "answer": "The Vehicle Age options include: < 1 Year, 1-2 Year, > 2 Years. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_test.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What are the different sex options in None insurance?",
+    "answer": "The sex options include: female, male. These represent different categories that affect insurance pricing and coverage.",
+    "category": "general_insurance",
+    "difficulty": "basic",
+    "source": "generated_from_insurance.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What are the different Vehicle Age options in health-insurance-cross-sell-prediction insurance?",
+    "answer": "The Vehicle Age options include: > 2 Years, 1-2 Year, < 1 Year. These represent different categories that affect insurance pricing and coverage.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_train.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What are the different smoker options in kaggle insurance?",
+    "answer": "The smoker options include: No, Yes. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  },
+  {
+    "question": "What factors affect homeowners insurance premiums?",
+    "answer": "Homeowners insurance premiums are affected by: location and local crime rates, home age and construction materials, coverage amount and deductibles, personal credit score, claims history, proximity to fire stations and water sources, roof condition, security systems, and additional coverage options like flood or earthquake insurance.",
+    "category": "home_insurance",
+    "difficulty": "intermediate",
+    "source": "synthetic_expert",
+    "data_source": NaN,
+    "keywords": [
+      "location",
+      "construction",
+      "credit score",
+      "claims history",
+      "security systems"
+    ]
+  },
+  {
+    "question": "What are the different region options in kaggle insurance?",
+    "answer": "The region options include: southwest, southeast, northwest, northeast. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance.csv",
+    "data_source": "tabular",
+    "keywords": NaN
+  }
+]

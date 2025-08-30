@@ -1,0 +1,787 @@
+[
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "How does Age relate to Policy Sales Channel in health-insurance-cross-sell-prediction insurance?",
+    "output": "There is a negatively correlated relationship (correlation: -0.57) between Age and Policy Sales Channel. This means they tend to change together in the same/opposite direction."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "where do I get Disability Insurance",
+    "output": "where do I get disability insurance in Washington State you will get it from me what you will want do be meet with an agent and go over your option with a great deal of time spend on understand the definition of disability with disability coverage the definition be everything without a good definition the premium may be cheap but collect on a claim may be hard"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be lifeline cover Medicare",
+    "output": "Medicare do not cover medical alert system even if you have a doctor note / prescription most insurance company will not cover them either some state may have their own program that will help provide financial assistance for medical alert system - certain criterion may be require be meet before the financial assistance can be provide however"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can nursing home take whole life insurance",
+    "output": "that be a great question I be think the circumstance for ask it not it seem as if you be ask if the nursing home can take or somehow be pay your life insurance policy be that correct you will get into some legal ground I be not able go but I feel safe say I do not believe there be any way legally they can take that pay for service render that said if this be your only way pay for the service and I repeat only way (no family, other salable asset, etc. you can probably assign the policy them that transfer ownership of the policy to them and allow them name themselves as the beneficiary so they get pay and not you when your love 1 pass that leave you with no asset for the love 1 funeral so it be not a real good option if you have have the policy for a while it may have a decent amount of cash value build into it that you can borrow from that will help for a little while and be a good option if I be guess correctly this be your intent with this question please contact me so that we can discuss your option in more detail okay good luck and thanks for ask"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you be deny Health Insurance for HPV",
+    "output": "under the affordable care act a health insurance company not can deny you coverage for any pre-existing medical condition or other related illness please note you can only apply for a health insurance plan during the annual enrollment period unless you have a qualify event e.g. get married, have a baby, coming off of group coverage, etc. for a special enrollment period I hope the information be helpful - please feel free contact me for help and if you have any other question thanks very much"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you borrow from annuity",
+    "output": "annuity technically have no loan provision any withdrawal be subject to tax and penalty if you withdraw before 59 you can however collateralize your annuity for a bank loan if it make economic sense annuity may also have surrender charge that can restrict the amount you attempt to access annuity shall not be buy if cash liquidity may turn out be an issue"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you take out a Life Insurance policy on a stranger",
+    "output": "not anymore that be an early form of gamble people will take out life insurance on a crew member of a ship hope the crew member will die during a voyage you must have an insurable interest in the person and the person must cooperate with medical information and a signature on the application"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "when surrender Life Insurance",
+    "output": "few good reason surrender a life policy my own personal doctor do just that and how he have no life insurance he say he do not need it because he have so much money but if he be lose that money his family will get nothing upon his death not a wise move when surrender a whole life policy have cash surrender value which you will get but if you need that money New York Life allow you borrow against that money and keep it tax free"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can 1 purchase burial insurance for elderly parent",
+    "output": "there be a few guarantee issue policy available generally they come in the mail or be publish in magazine at age 90 they be very rare a good choice will be place some fund into an annuity which be another insurance product it can grow and pay for such expense talk to an insurance expert thank you Gary Lane"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what kind of retirement plan be good",
+    "output": "the first step be establish what your effective tax bracket be determine if you shall set up a qualified non qualified plan if your tax bracket be low the deduction may not be as valuable in a qualified plan as the flexibility of a non qualified plan you also want assess your risk tolerance help you select suitable investment that meet your financial profile another consideration be whether set an individual plan or participate with a plan at work some employer match portion of your contribution so it be important thoroughly examine your option"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much will Disability Insurance cost",
+    "output": "long term short term disability insurance depend on several factor disability insurance cost be based on a 3 item: your personal medical health, your compensation and your vocation your gender, age, smoking status, health history, current medical condition contribute to your underwriting classification your compensation must be justified or provable you vocation whether blue or white collar hazardous skill specific all contribute to the price you will pay for short term disability insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much Life Insurance do I need at retirement",
+    "output": "how much life insurance you will need after retirement depend on your individual situation you will need insurance for final expense and estate plan purpose such as fund for estate fee and taxes.You may want give 1 fixed asset such as a business or building 1 heir and will have life insurance equalize your estate perhaps provide fund charity or your legacy generally life insurance create cash at death and if you need cash conserve or create your estate it be hard beat an independent life insurance broker who represent several company can help you find the right policy at the right price if you have far question or feel I can be of assistance please do not hesitate contact me if you will like work with a local life insurance broker you can start with a Google search for example if you search for life insurance broker Halifax or life insurance agent Halifax my name along with several other will come up you can use the same method find a life insurance broker in your community"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What are the different Vehicle Damage options in kaggle insurance?",
+    "output": "The Vehicle Damage options include: No, Yes. These represent different categories that affect insurance pricing and coverage."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be renter insurance annually",
+    "output": "it vary depending on what coverage you have as well as how much stuff you have the average renter policy be about $15 a month but if you start add on Jewelry Riders, Sewer Backup, Family Liability etc. the cost obviously can vary find a local agent and discuss with them what be good for you"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be homeowner insurance include in your mortgage payment",
+    "output": "the answer here be maybe most mortgage company will require a mortgage holder have their insurance pay out of their escrow account if they have less than 20% equity in the home generally this be just ensure the policy be pay in force if you have more than 20% equity you may be able pay it yourself some company charge more bill the mortgage company so there may be cost savings if you pay it yourself then again some people do not want deal with the bill and like pay it in their mortgage payment the only answer you care about be the 1 your mortgage company give you if they do not require it be pay out of escrow the choice be up to you"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do car insurance cover use the wrong fuel",
+    "output": "unfortunately it do not typically your policy be not design cover maintenance issue or related problem your auto insurance policy be design cover liability risk such as bodily injury and property damage other benefit you can add include uninsured underinsured motorist protection along with collision and comprehensive coverage on your vehicle"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do auto insurance affect your credit score",
+    "output": "generally speak the answer be no. insurer use credit information in bed in insurance score but it do not flow backwards as your question ask, there be 2 type of score in most transaction involve credit there be instance where the requester have advise you you, be for example seek a loan or credit card those be consider hard hit to your credit by seek that type of loan you be in fact telegraph to other I need the money insurance score typically be soft hit, that is to say they look at information but do not impact the result i have run a couple insurer and work for several other and I have never see an issue with this be a hard hit"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how soon can I borrow from my Life Insurance policy",
+    "output": "if you own a permanent cash value life insurance policy policy loan shall be possible once it accumulate enough cash surrender value each policy contain provision which explain how policy loan can function for that particular contract you can ask your agent or the insurance company directly for the loanable value of the policy as long as the policy loan do not grow too large relative to the cash value available in the policy there shall not be a problem while you do not have repay the loan - it can be repay out of the death benefit care must be take ensure the policy be not cause lapse as income tax will be payable in the year of lapse subject to all of the gain over the life of the contract"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What is the average Annual Premium in kaggle insurance?",
+    "output": "Based on the data, the average Annual Premium is $30524.64, with a median of $31642.00. This indicates the typical cost range for this type of insurance."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be some example of Disability Insurance company",
+    "output": "there be many disability insurance company available in the U.S. market in the brokerage distribution channel standard of Oregon, principle, Met Life, Assurity, Illinois mutual Lloyd be of London, Mutual of Omaha, fidelity and Lloyds of London in the career channel there be mass Mutual and Guardian there be other but these be the player in disability insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can a power of attorney change the Life Insurance beneficiary",
+    "output": "the power of attorney documentation will outline the financial authority or limitation the designate person assign act on behalf of the incapacitate can exercise the life insurance company will review the power of authority document for its language verify whether or not the power of attorney give the authority make the change in policy ownership"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do renter insurance cover spoiled food from a Power Outage",
+    "output": "there be exclusion in most homeowner policy for power interruption that be cause outside the residence the damage sustain in such a power interruption will normally not be cover if the power outage be due to something that happen inside the residence the spoilage will probably be cover"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I deduct home insurance premium on my tax",
+    "output": "this be more of a question for you discuss with your Tax Professional as opposed to your Insurance Professional give your particular situation in some very specific case you may find it may be possible include at least a portion of the premium that you pay for your Homeowners Insurance qualify for some sort of a deduction do not do it on your own though, always consult your Tax Professional for question such as these"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how long do you need Life Insurance",
+    "output": "not a simple short answer while there be huge number of people in the US that do not havelife insurance, thelength of timeto purchase life insurance depend uponthe reason for the life insurance people who have large estate will uselifeinsurance as a planning tool help pay for estate taxes.Some willneed life insurance purely as a death benefit other will useto generate tax free retirement, where the cash value be not tie up & can be use before reach retirement age as Walt Disney tocomplete the finance launch Disneyland in CA good advice get with a consult agent with experience withall of the above and allow them help decipher your individual need"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do AIG sell Life Insurance",
+    "output": "AIG sell life insurance through its subsidiary American general as you may or may not be aware that AIG be bail out through loan and stock ownership from the government since that time AIG have pay back all loan the government and its subsidiary American general have enjoy a resurgence in sale and brand recognition"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do my insurance cover a borrow car",
+    "output": "auto insurance follow the car the limit of insurance on the car will govern the claim in the event of an accident even if you be drive someone elses car with their permission in the event that the coverage on the car be insufficient your insurance company may provide additional coverage it will be good consult your agent about that"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be usually cover under renter insurance",
+    "output": "a renter policy normally have 4 section the first section be personal property this section promise provide either like item or new item those damage a cover peril such as fire the second section be call incidental property coverage which include thing like emergency removal of your property from the rental unit prevent loss from a cover peril, fire department service charge, debris removal, credit card, forgery and additional coverage the third section be personal liability and provide for your defense and damage up to the limit of the policy for personal injury and property damage lawsuit the last section be incidental liability and provide limited coverage property of other damage you there be other coverage build into the package"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can Two People own a Life Insurance policy",
+    "output": "yes a life insurance policy can be own two or more people providing there be insurable interest an example of this will be 2 sibling who wan take a policy out on their parent they plan on share the premium and any cash value or death proceeds pay out the policy they may choose be co-owner"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance require in Ohio",
+    "output": "as an experienced Ohio broker 32 year of experience I will answer the question no. that be simple you be not require purchase life insurance in Ohio for additional information regarding Ohio life insurance price consult an experienced broker who live in Ohio and who be a full-time agent as opposed to a consultant, navigator or any other part-time position an experienced agent / broker will shop the major carrier for you provide expert advice in the state they be most familiar with... Ohio"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance expensive",
+    "output": "life insurance be probably the most affordable insurance policy on the market especially for the young healthy the premium be literally penny on the dollar for the benefit in case of an unexpected death of a love 1 that other depend on financially the other thing consider life insurance be the only insurance guarantee pay a claim if it enforce we all die someday"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be annuity distribution taxable",
+    "output": "nonqualified annuity distribution of gain be taxable at ordinary income rate nonqualified annuity distribution of basis be tax free annuity distribution recognize gain first basis second or last in first out the exception to the rule be lifetime annuitization where basis be amortize to the annuitant life expectancy as a portion of the payment until its exhaust this special treatment be call the exclusion ratio, the part of the annuity payment exclude from taxation all qualified annuity be fully taxable at ordinary income tax rate"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you opt out of Health Insurance",
+    "output": "if you be lucky enough work for an employer who pay 100% the employee rate for the group health insurance they offer pretty rare these day then standard group contract require all eligible employee be enroll so in that circumstance you may get health insurance coverage whether you want it or not if you have contribute towards the cost of the health insurance provide your employer then you have the right waive participate in your employer group health plan I will presume though that your question really about the individual mandate provision of the affordable care act ObamaCare its requirement start on january 1, 2014 that a person have health insurance coverage that meet the minimum essential benefit requirement under the law subject to the share responsibility payment do not that sound better than tax penalty on your income tax ObamaCare do give you the choice of either get health insurance coverage or go without coverage potentially be subject to a tax penalty in that sense you can opt out of have health insurance coverage but wait there have more the Affordable Care Act provide for person in certain situation or who be member of certain group be exempt from the individual mandate requirement some example 1) if the cost of coverage you more than 8% of your annual household income 2) if your annual income below the threshold where you have to file personal income tax 3) if you qualify a hardship exemption this can an escape route many people 4) if you have have a gap in being cover of less than 3 month during the tax year 5) member of religious group that object to coverage on religious ground 6) member of nonprofit religious organization where member share prison inmate 8) non U.S. citizen 9) Native American tribe member 10 year long resident of U.S. territory such as Puerto Rico and Guam what can be more simple I hope this help answer your question"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you apply for Disability Insurance while pregnant",
+    "output": "since disability insurance pay for time off for pregnancy and childbirth be pregnant be consider a pre-existing condition and you can not usually apply for disability insurance while pregnant in my experience the application be postpone until after the baby be born but you may be able modify the policy exclude pregnancy related disability so that you can go forward with the application"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what do annuity due mean",
+    "output": "the word, annuity probably date back to Rome the annua be an annual payment there be some arrangement where the payment last the lifetime of the recipient table for these payment be develop during the Roman Empire and use compensate soldier for their service they receive a life time of annual payment"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "who be primary on Medicare",
+    "output": "if you only have Medicare A & B or Parts A & B plus a Medigap plan Medicare be go pay first when you have more than one plan pay a claim the process have follow the coordination of benefit rule determine who pay first and who pay second the majority of the time, people who be on Medicare will have 2 type of coverage when they or their spouse work for an employer self-employed individual will generally only be on Medicare and drop their under 65 policy (unless their spouse have group coverage they can be on how big the company and whether or not the insured employee working will generally determine who pay first if the employer have 20 or more employee the employer plan will pay first Medicare second if the employer have less than 20 employee Medicare will pay first and the employer will pay second if you be on Medicare for a disability the employer plan pay first Medicare pay second if there be 100 or more employee if there be less than 100 employee Medicare pay first and the employer plan pay second"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "who be the good Life Insurance company in California",
+    "output": "there be not 1 single good life insurance company in California but there be several that offer a combination of high financial rating, competitive premium and excellent customer service when shop for life insurance in California it be important work with a knowledgeable independent agent who can shop all of the A rate good company find you the good policy for your unique circumstance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I buy Health Insurance just my child",
+    "output": "you can buy health insurance just your child rate will be very inexpensive unless there be major health condition coverage may be limited since many carrier only issue short-term plan on child only policy however begin in october open enrollment for 2,014 plan will begin and many more option will become available an experienced broker can help you select the good plan at the most affordable price"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be the average cost per employee for Health Insurance",
+    "output": "group health insurance be health insurance a business own and offer to its employee the business generally pay for a percentage of the premium with the employee pay the rest it have often offer as a means of attract people come work from them it be impossible say what the average cost per employee be for health insurance group health insurance quote be based on the size of the business, the industry sic code, age of employee and average employee health except in Maryland which require no medical underwriting there be no instant online quote for group health insurance for these reason get a quote for group coverage you will need contact a health insurance agent - work with an independent 1 will allow you shop for quote from multiple company in 1 place have too many hand in the cookie jar can sometimes make thing confusing feel free contact me with any question"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will Health Insurance pay for wisdom tooth removal",
+    "output": "the answer to this question will depend on the reason for the removal most claim for extraction be send to your dental insurance first, not your health insurance if the wisdom tooth be what be call boney impaction the claim will be send to your health insurance company to coordination benefit with your dental plan since that treatment be cover under health insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Life Insurance check for herpes",
+    "output": "no life insurance exam do not include a test for herpes in their blood or urine test it may be a serious case of herpes will affect blood count which cause the underwriter dig deep but they do not test for it specifically although the application may have a question about herpes"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "who be eligible for Medigap",
+    "output": "you must have Medicare part A and part b be eligible for a Medigap plan but eligibility alone do not guarantee coverage if you apply during your initial enrollment period you can apply for any plan with any carrier and coverage be guarantee after that you must submit evidence of insurability unless you be apply during a guarantee issue period"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "How comprehensive is the health insurance data?",
+    "output": "The dataset includes 1,338 insurance records with 7 different attributes. This provides a substantial sample size for analyzing health insurance patterns and trends."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "why be variable annuity good investment",
+    "output": "product suitability determine a personal financial profile that establish risk tolerance and tax deferral as a priority must first be develop a nonqualified variable annuity not invest in the guarantee interest account have market risk to principle deposit the allocation of separate sub account may have great lesser risk determine the asset mix the economic goal of the investor must correlate to the variable annuity and its asset allocation mix and the length of hold period need match up to the investor economic timeline a variable annuity be neither good nor bad; however the recent variable annuity designs may not be as consumer centric as they be before 2,007"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how read a home insurance quote",
+    "output": "homeowner insurance be comprise of several variable but I will discuss some of the major component first foremost you want a replacement cost policy second you need work with your agent determine the proper amount of replacement cost coverage (the cost rebuild your home once this amount be determined the other coverage line be a percentage of the dwelling coverage here be an example of the major component dwell - $500,000 other structure - $50,000 (10% personal property - $350,000 (70% next, you need select your deductible deductible typically range from $500 -% of your dwelling coverage I recommend at least a $1,000 deductible because you do not want file small claim on a home policy there be other optional coverage that be very important such as water / sewer backup and law and ordinance coverage identity theft and schedule item can also be add as always it be good discuss your option with an independent agent who can present several option specific to your need"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do renter insurance cover sewage backup",
+    "output": "renter insurance do not cover sewage backup on its own there be an endorsement available add this coverage usually for just a few dollar per month it be worth remember endorsement must be make before a loss occur you can not call your insurance agent and add the water and sewage backup endorsement after you discover the problem, there will be no coverage because the endorsement be not apply at the time the loss occur"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do auto insurance transfer from an old car to a new car",
+    "output": "if you have an insurance policy and sell your car because you purchase a new car you can easily change car on your policy simply call your insurance agent and notify them of the sale of the old car and purchase on the new car and the agent can update your policy rate will adjust take into account the car you choose on a pro-rated basis"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "How does Age relate to Policy Sales Channel in kaggle insurance?",
+    "output": "There is a negatively correlated relationship (correlation: -0.58) between Age and Policy Sales Channel. This means they tend to change together in the same/opposite direction."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can a Home Insurance Company drop you",
+    "output": "a insurance company will look at any insure potential insured and weigh the risk involve after the riskassessmenta company can make an offer for insurance shall the risk change significantly a company can choose to eitherincreasethe premium associate with the risk or choose no longer carry the risk keep in mind when a insurance company be renew you it be an offer of renewal"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be full coverage auto insurance in California",
+    "output": "I agree with all the answer above full coverage be a very vague term it depend on individual and what they need protect the same full coverage for me may not be enough cover you and vice versa if we have different asset protect the good way be speak to an agent so that s / he can help you what you need protect and suggest the appropriate coverage level that will meet your need as well as your budget"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much universal life insurance do I need",
+    "output": "determine how much universal life insurance you need it can be helpful list the purpose for your life insurance i.e. pay for your child college provide income during retirement to pay for your funeral, etc. those thing that be temporary such as child college may be best meet with term life those that can use a boost from the stock market such as retirement income can do well with indexed Universal Life other permanent need such as funeral may do best with whole life partly because there be a lot of competitively price final expense policy that come in whole life contact any agent on this website will help you sort through your need and find you the good combination of policy"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how cancel State Farm renter insurance",
+    "output": "cancel any insurance coverage contact your carrier or your local agent and advise them of your intent cancel your policy with them you may be able fax or email them a document with your signature with your intent cancel the policy your agent or carrier may require you sign their cancellation form so that they have it for their record"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "why be home insurance so expensive in South Dakota",
+    "output": "South Dakota home insurance rate be heavily affect hail and wind in the last 4 year every major city in the state have be hit hail storm some of them multiple time the # I have be give be if you take every dollar of property insurance premium pay in insurance company in 2,008, 2,009, 2,010, 2,011 and 2,012 the insurance company have pay out about $1.40 in claim for every $1.00 in premium this have lead rate increase tighten underwrite and some company have leave the state stop sell insurance here as an individual the good thing you can do be 1 watch your credit insurance rate be base somewhat on your credit information the good credit you have the low your rate will 2 keep a high deductible insurance company want be there for you when you have a major claim but they want you handle the small stuff many people be change to $2,500 deductible 3 use impact resistant material the company I work for (American Family Insurance offer a large discount for impact resistant shingle and certain steel roof there be other discount for cement board siding versus vinyl since it do not hold up well hail send me an email if you will like a quote"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I purchase Health Insurance just my child",
+    "output": "yes some company do allow you to by health insurance on just a child but they may be hard to find.It may also depend on your where you live Ilive in Florida and I know of at least one company that will write a stand alone for a child I will check with the big carrier in your state first you can get a free quote from any company and they will tell you right then"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can anyone take out a Life Insurance policy on me",
+    "output": "technically no one can take out a life insurance policy on you without your knowledge you must sign the application and engage in the underwriting process (phone interview, exam or whatever be require give your consent if another person will forge your signature that will be insurance fraud and subject to penalty"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What is the average charges in health insurance?",
+    "output": "Based on the data, the average charges is $13270.42, with a median of $9382.03. This indicates the typical cost range for this type of insurance."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can Life Insurance be pay a Minor",
+    "output": "yes a person under 18 can be the beneficiary of a life insurance policy you shall have provision set up in your will designate a guardian / trust control the fund until he / she be old enough claim them, otherwise a judge will decide who will be given guardianship.A life insurance trustcan be very useful in this instance if you want control how and when the proceeds be pay out many time a parent may want their child access to the money be give in installment (e.g. give a quarter of it to them when they turn 18, a quarter when they turn 21, a quarter when they turn 25 and a quarter when they turn 30 make sure the money last and not spend unwisely"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much do short term Life Insurance cost",
+    "output": "short term life insurance such as 5 year term or 10 year term, can cost much less than life insurance lock in long period of time such as 30 year term life insurance or Universal Life however when that short term be complete the price for that policy will jump extremely high if the insured person health have get bad during that time he / she may need pay much high premium or possibly may not even qualify for a new life insurance policy therefore it be important to look at the need involved when purchase a life insurance policy if you be 40 years old and want it cover your child go to college get a short term policy may suffice if you want it pay for your funeral then it be good go with some type permanent plan"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I get Disability Insurance with Multiple Sclerosis",
+    "output": "it may be possible purchase a disability policy with multiple sclerosis every insurance company use different underwriting criterion you may be able purchase a simplified issue policy - 1 with limited monthly benefit amount at least one carrier do not ask about Ms. you will have answer no other medical question and answer no whether you have miss 5 consecutive day of work during the last 12 month"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I get Life Insurance after a Heart Attack",
+    "output": "yes most people can get life insurance after a heart attack the type, quantity and price of the life insurance that 1 can get after a heart attack depend on a number of variable these include: the age at which the heart attack occur (the old, the good for life insurance purpose the severity of the heart attack what treatment follow bypass stent etc whether the treatment be successful and there be not recurrence for several year if healthy life habit be pursue (e.g. quit smoking, exercise regularly, etc number of cardiac event ejection fraction of heart, stress test result and other cardiac test if unable get a medically underwrite policy there be some simplified issue policy that simply ask if a heart attack have occur in the past # of year your agent get a full health history and be able shop multiple carrier will ensure you get the good life insurance rate post heart attack"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be supplemental AD&D Life Insurance",
+    "output": "this will be an additional policy probably offer your employer or credit union that offer life insurance that cover only accidental death and dismemberment this mean it will only pay if you die in an accedent or loose a body part such as a hand, arm foot or leg these be usually very inexpensive not a bad supplemental policy for young age they shall never take the place of a full life insurance policy however"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be Colorado cobra Health Insurance",
+    "output": "cobra (the Consolidated Omnibus Budget Reconciliation Act be a program that be pass allow people continue group health insurance that will otherwise have be terminate the most common user of cobra be employee who leave their job where they have employer sponsor health insurance usually after be lay off or leave the group on their own term cobra coverage can be keep for up to 18 month and be only available to individual and family cover under a plan with more than 20 employee enroll your premium under cobra coverage be 102% the total cost of insurance this be important because many employer pay for part of the cost while the employee be still working cobra election apply to each person individually that be cover under a give health plan since health insurance be guarantee issue under the affordable care act you do not want wait until your cobra coverage expire look for a new policy do so can cost you a lot more money unnecessarily consult with an experienced health insurance broker compare your option and see which plan option will best serve your need I hope the information be helpful - please feel free contact me for help and if you have any other question thanks very much"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance exempt from creditor in Connecticut",
+    "output": "provided that you have name a primarybeneficiary in your life policy then yes the proceeds from that policy upon your death will pass directly to your beneficiary without any trouble from creditor in addition to name a beneficiary it be also a very good idea name a contingient beneficiary who will receive the proceeds if the primary benficiary can not for some reason receive them"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "why be term Life Insurance the good type",
+    "output": "term Life Insurance be not the good type of life insurance for every situation we get regular call from people who think they will only need life insurance for a temporary period of time however now they be think ahead to their final year and worried about where the money will come from bury them if the need be not permanent however term Life Insurance be good for its relatively low price tag"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance ever tax deductible",
+    "output": "life insurance in general be not tax deductible however in several instance it can the 2 most important tax to consider a deduction be income tax & estate tax under income tax life insurance be deductible inside a qualified retirement plan like a pension or profit sharing there be some other instance it may be deductible for a company in regard to the estate tax life insurance be not really deductible but it can be tax heavily if not set up correctly the ownership of the life insurance policy determine if it be include in the estate & tax or exclude from the estate and not tax in all case base seek competent advisor"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "when shall you buy Disability Insurance",
+    "output": "disability insurance be best purchase when you be in good health and able identify the risk of lost income if you become disabled there be many affordable policy from top rate insurer that can be compare a full-time broker or financial planner be your good resource for information they can review your specific need and recommend a policy that meet those need at a price you can afford"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how do Critical Illness Insurance work",
+    "output": "Critical Illness Insurance work by pay a lump sum of money the insured person upon diagnosis of 1 the qualify illness this money can be use pay medical bill cover lost wage pay for incidental cost associate with treatment have some fun as a break from the rough time use on whatever purpose the insured person want use it on"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be car insurance require in Florida",
+    "output": "auto liability insurance be require in every state you can get away without collision and comprehensive coverage if you own the car with no loan but every driver be require have liability insurance the penalty for not have insurance tend be very steep and minimum coverage tend be pretty cheap so do not break the law and drive without proper liability coverage"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you take out a Life Insurance policy on a stranger",
+    "output": "you must establish insurable interest and the need indemnify financial loss at the death of a stranger like in a business arrangement where the party may be unknown to each other but they share business interest as in a buyout or bank financing all that remains secure the life insurance policy, provide underwriting approval be the signature of the so called stranger"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be defer annuity",
+    "output": "tax defer annuity be mortality insurance product tax defer annuity permit your contribution and earnings to accumulate tax defer the earnings or credit method have 3 basic option: fix interest rate credit indice credit separate sub account use equity and bond investment tax defer annuity be generally purchase generate income in the future even lifetime income you cant outlive during distribution the gain in the policy be tax as ordinary income"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how get very cheap car insurance",
+    "output": "the good way get cheap car insurance be properly shop all of the major company so you can easily compare the good offer in your area there be many company that offer affordable option that will save you money of course a very good driving record also help live answer provide Ed Harris - premier auto insurance broker for 33 year and owner of several top rate website that offer the low available rate"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be Life Insurance assignment",
+    "output": "there be 2 type of life insurance assignment: collateral and endorsement the circumstance will dictate which option take fundamentally youre use the cash value (sometimes the death benefit an asset pledge a loan or a restriction cash value while an employment agreement may be in force"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance expensive",
+    "output": "life insurance be generally very inexpensive for the amount of coverage you get e.g. for $50 / month some people can get a policy with rate lock in for 20 year that will pay their love ones $500,000 if they die the amazing thing, this policy can pay out $500,000 for 1 $50 payment if death occur 1 month after take out the policy where else can you find a return like that on the other hand for some people life insurance be expensive although generally less expensive than health, long term care or disability insurance for someone who be up there in year or have serious health problem the premium be high because their chance of pass away be high however they again get the advantage of the policy pay out the full benefit if they will pass away shortly after the policy be purchase in a grade policy 2 or 3 year after the policy be purchase that type of feature be impossible find anywhere else"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I purchase Life Insurance on my parent",
+    "output": "can you purchase life insurance on your parent yes provide they consent be insure you it not can be do without their permission this situation occur quite often as kid realize their parent may need something take care of their final expense and service at their passing"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how many annuity have fail",
+    "output": "I assume you mean fail as in do not pay what it guarantee annuity be back the claim pay ability of the insurance company that issue the policy this be why it be very important consider the financial rating of the company you use since 2,008 there have only be 3 B rate insurance company that have fail there have be more c, d & e rate company that have fail not many and most of the ones that do be d rate or bad since 2,008 there have be no B+ or better company that have failed. actually its long than that but the record I currently have access to only go back that far but I be not personally aware of any insurance company that be A rate at time of failure this be why most agent recommend use a B+ or better yet an A rate company it be also important point out that just because an insurance company fail do not mean the annuity fail pay insurance company be highly regulate and the state all have a safety net type system set up help secure the guarantee make by fail insurance company visit WEBSITELINK for more info on what happen in the event of an insolvency but it be important remember that whatever safety net may exist it be no substitute for a solid financial rating there be way too many well rate company use a poorly rate 1"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can you add parent to your Health Insurance",
+    "output": "it be not permissible add parent to your health insurance the only dependent that be allow be child and step child as well as a spouse since health insurance be now guarantee issue and no one can be turn down parent shall be able purchase health insurance with no issue"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can Life Insurance check medical record",
+    "output": "when you apply for life insurance you be ask sign a medical release form this form allow your doctor release medical record to the insurance company it also provide a release use the MIB or Medical Information Bureau the MIB be where insurance company keep basic information when people apply for insurance if you have far question or feel I can be of assistance please do not hesitate contact me"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do my car insurance cover Uhaul",
+    "output": "policy provision vary by company but in most case a U-Haul will not be cover your auto insurance company since most u haul be not of the private passenger type the good thing do be call your agent on this 1 so the agent can confirm if there be coverage and on the type of vehicle you will be rent otherwise I highly suggest you purchase the coverage from u haul upon rent the vehicle"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be homeowner insurance premium",
+    "output": "homeowner insurance premium can be not very much or quite a bit I know not the answer you be look for but there be so many variable, it be hard quote specifics without know more detail be your home replacement cost $90,000 or $900,000 build in 2,010 or 1,960 brick or frame so much information be need in fairness you will have submit a quote request"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what do my auto insurance score mean",
+    "output": "many auto insurance company utilize consumer credit information and specialize algorithm design predict the likelihood of future claim an auto insurance score may use both consumer credit, demographic data, driving record and past claim information predict future claim these score be then use determine what premium rate charge people expect make fewer claim pay less and those expect make more claim pay a high rate"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I pay my Life Insurance with my HSA",
+    "output": "no unfortunately it be not allow the IRS pay for your life insurance premium with your HSA (Health Savings Account HSA fund can only be use for Long Term care insurance premium within limit cobra health insurance premium or health care premium pay while receive unemployment compensation include premium for spouse or dependent and premium pay Medicare if age 65+ but not premium for Medicare supplemental policy"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Life Insurance Payout get tax",
+    "output": "in addition to what Bob say life insurance proceeds may be subject to federal estate tax if they push the value of the estate beyond 5.25 million dollar (the exempt amount for 2,013 some state also have estate or inheritance tax that can apply to life insurance proceeds"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "when do you sign up for Medicare",
+    "output": "you sign up for Medicare in the 3 month before or after the month you turn 65 e.g. if you birthday be in May, you can sign up between feb and aug of that year if you be already receive Social Security at age 65 you wil be automatically enroll in Medicare"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be homeowner insurance binder",
+    "output": "a homeowner insurance binder be a document that be prepare and complete once the policy / coverage have be purchase also know as evidence of insurance this form list out the primary coverage that be on the home insurance coverage you have purchase including coverage limit deductible, mortgage information and can also include other specifc coverage you have elect purchase as well as can include certain coverage exclusion"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do a 60 year old person need Life Insurance",
+    "output": "without analyze a person full situation it be near impossible make a recommendation most anyone require some sort of life insurance even if it be just enough to bury the deceased the idea be pay less for get a large return of cash when need by leverage your dollar over a long period of time it can help pay for final expense if a person need more cash on hand for estate purpose there be no cheap way pay for the benefit need than life insurance if in proper health"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be my Life Insurance worth",
+    "output": "your life insurance value depend on which life insurance you purchase if you own a term policy have no cash value but it do have a death benefit to your name beneficiary upon your death and your coverage be still in force if you purchase a cash value permanent policy it have a death benefit the same as the term policy but also a cash value first look at the type of policy term, whole, universal, mortgage, etc. if it be a cash value plan look inside the policy for the illustration page within the first 10 or 12 page there will be a corresponding value based on the year the policy be in force most cash value policy do require payment of up to 7 year before a cash value be establish purchase the death benefit"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do renter insurance cover damage to property",
+    "output": "renter insurance be not design cover damage to property such as real estate it will cover your property inside the apartment or home you be rent be sure look at the type of coverage you be get as well; current value v. replacement value in other words if your TV be damaged will you want what it be currently value at or what it take get a new TV"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how read a home insurance quote",
+    "output": "I will just like elaborate on the above answer: coverage be designate letter and section where section 1 cover property and section 2 cover liability section 1 A - Dwelling B - Other Structures C - Personal Property D - loss of use section 2 e - liability negligence must be prove f - medical payment to other no negligence have be prove in late section will be the additional coverage such as schedule property, additional cause of loss (flood, earthquake and any schedule exclusion I hope this put the above answer in context of your policy"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be the average car insurance rate in Kansas",
+    "output": "according to the National Association of Insurance Commissioners the average cost of auto insurance in the state of Kansas be around $625 per year"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can dental be claim on Medicare",
+    "output": "Medicare do not cover dental while Medicare Advantage cover some preventive care procedure it do not cover extensive dental procedure there be dental policy available the coverage be usually limit to $1000 per year in most case dental maintenance be best plan have preventive cleaning do each year plus any require dental filling each year but then if you need more extreme procedure you will probably spend a chunk of your vacation fund in the dental office"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do 21st century offer homeowner insurance",
+    "output": "21st century insurance company direct be now a wholly own subsidiary of Farmers Insurance; a full service insurance company utilize the agency system the system have prove be expensive in the opinion of customer; the agency system be set up for client todeal with their carrier through the agent for all inquiry create a sale opportunity every time a client need assistance 21st century specialize in discount prefer auto insurance and they do a great job at it the company itself do not offer homeowner insurance; their telephone representative be train cross sell property insurance through their referral system since their Auto Insurance be very inexpensive and they have a great track record most of their customer base have their property insurance place independently"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do car insurance cover hit a dog",
+    "output": "your car insurance do cover hit a dog it be possible you will have physical damage to your vehicle, especially the bumper or whatever part of the car strike the dog there may be other expense involved with the accident that can be cover if the dog be at fault and simply run in front of you car your insurer will certainly talk to the owner of the dog discuss the situation"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be long term Health Care insurance worth it",
+    "output": "long term care insurance protect extend care risk of assist live and nurse home care the average married couple spend $250,000 during retirement on medical expense and extend care the odds be you will live long than the precede generation if that be true you need extend care even long"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "which state have the most expensive auto insurance",
+    "output": "as far as I know Illinois have the most expensive insurance rate in the nation and Michigan be second unfortunately I have keep writing because this website say this question need more detail but I cant add more detail to this particular question hope this answer your question lol"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how long do you need Life Insurance",
+    "output": "you need life insurance as long as you love someone you need life insurance if other will suffer loss because of your premature death you need life insurance as long as a lender require it cover a loan you need life insurance as long as you want see those that you love receive an inheritance from you"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Medicare have a copay",
+    "output": "not really once you have be in the hospital for more than 60 consecutive day there be a daily copay but most of your basic item do not have a Medicare copay Medicare do have deductible and coinsurance that can leave you with an unlimited amount of OOP expense if you have a bad year"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be renter insurance typically",
+    "output": "the cost of renter insurance be go vary by location and amount of coverage have desire but with all the being say I typically see renter insurance range in the $150.00 - $250.00 range for an annual policy many auto insurance provider will offer discount if you bundle renter insurance with the same company"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be Life Insurance in The Philippines",
+    "output": "the cost of Life Insurance in the Philippines will depend on what type of Life Insurance you be look for term, whole life or Universal Life first I will recommend contact an agent who can write Life Insurance in the Philippines the cost shall not too far off of what you pay in the United States however there may be some different rating which I be not aware of I can refer you to an agent if need"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I cancel Life Insurance at any time",
+    "output": "yes you can cancel your life insurance at any time if you have term insurance there be no penalty unless you have ROP term Return of Premium Term in which case you will not get back the full premium you pay in if you have cash value life insurance you may lose some or all of your cash value surrender charge if you cancel your policy in the early year and of course when you cancel your life insurance you lose your death benefit so contact a professional review your choice before cancel a life insurance policy there be often option of which you may be unaware, that can save you money and possibly save at least part of your death benefit"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What are the different sex options in insurance insurance?",
+    "output": "The sex options include: female, male. These represent different categories that affect insurance pricing and coverage."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be good Disability Insurance",
+    "output": "there be several good disability company in the market place but each contract have it own definition so the policy language be very important understand in determine your benefit Ameritas, Assurity, Fidelity Security, Illinois mutual Lloyd's of London, mass mutual Metlife, United of Omaha and The Standard be the top brokerage carrier in disability insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what do a renter insurance policy cover",
+    "output": "each carrier will different bell and whistle (us insurance nerd call them endorsments and policy form but in general a renter insuranc epolicy be go to cover your stuff up to the policy limit plus have liability coverage on renter insurance we get the question all the time on how much coverage do I need.... do a mental actual physical inventory of all your stuff, calculate the value replace and take a policy for that amount many carrier have minimum level of coverage get replacement cost coverage you want this.... you do not want a policy that be actual cash value if you do not think all your stuff add up to that minimum amount for replacement cost coverage get a policy for that minimum anyway you will be glad you do if there be ever a claim the liability coverage be there in case someone get hurt in or around the unit you be rent and their injury be deem your fault this coverage can actually be more important than the contents coverage"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how many people have Critical Illness Insurance",
+    "output": "simple answer: not enough in the US Critical Illness (CI be first create a heart surgeon in South Africa the reason as he put it be I can heal people medically but the financial stress be kill them CI provide a lump sum of money upon first diagnosis of a cover critical illness such as heart attack, stroke, cancer and up to 21 or so other condition in the United States critical illness have only be introduce about 8 year ago and now be finally pick up steam with the agent & broker who can sell this product the U.S. have catch up a bit with the rest of the world but I have faith it will in the next few short year"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be CYD Health Insurance",
+    "output": "CYD typically mean calendar year deductible this refer to the deductible amount you can choose if you obtain your coverage by choose a bronze plan, a silver plan, a platinum plan or a gold plan deductible amount have typically be use hold the cost of health insurance within the budget constraint of the purchaser you will be wise compare the coverage you can obtain through the ACA with call some of the primary carrier that will still be issue health ionsurance plan after the end of 2,013"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what know before buy long term care insurance",
+    "output": "before buy long term care insurance it be a good idea look at the area in which you anticipate you will be live when you reach the age where long term care may be need and see what their average rate for assist live and nurse home care run talk to your family and get their idea on arrangement if that type of care be need review your budget and determine how much you have spend on long term care and tell that your agent when you start an agent can save you a lot of time and frustration from look at all kind of bell and whistle that you can not afford when they know your budget from the start these be some thing that will help your long term care search start off on a good foot"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be qualified retirement plan",
+    "output": "a qualified retirement plan can be a define benefit plan or define contribution plan the private business sector and individual generally choose define contribution plan like 401 (k) s, 403 (b) s, Roth IRAs and traditional IRAs many of these plan fall under the regulatory legislation call the Employee Retirement Income Security Act of 1,974 (ERISA"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how code flu vaccine for Medicare",
+    "output": "to code the flu vaccine Medicare you must specify which of the 5 vaccine give Q2035 Afluria Vaccine split virus intramuscular injection Q2036 Flulaval Vaccine split virus intramuscular injection Q2037 Fluvirin Vaccine split virus intramuscular injection Q2038 Fluzone Vaccine split virus intramuscular injection Q2039 NOS Not Otherwise Specified Vaccine split virus intramuscular injection You must still use HCPCS code G0008 administration of the influenza virus vaccine"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do renter insurance cover garage door",
+    "output": "renter insurance be mean cover your personal belonging inside your rental unit or extend to storage unit inside your car, etc. it be not mean cover any portion of the rental unit, house, condo, etc that you be rent the owner be responsible for the shell or actual real property if you be negligent and damage the garage door with your vehicle then your auto insurance will normally cover the damage under your Property Damage portion of the auto policy"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Geico renter insurance good",
+    "output": "Geico do not actually insure renter or homeowner Geico partner with other insurance company like traveler and ASI who provide the insurance Geico claim cut out the middle man but that be simply not true Geico be an independent agency just like every local agency in your community Geico just spend a tremendous amount of money convince the public they be the cheap and the good it be simple not true"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "who can qualify for Disability Insurance",
+    "output": "qualify for Disability Insurance applicant need show they do not have an exceptionally high risk of become disabled have a health condition that lend itself become disabled even though the risk of death be very low e.g. MS will make it difficult get a Disability Insurance policy the applicant must also earn an income stay at home worker who be not compensate be unable qualify for disability insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what look for when buy home insurance",
+    "output": "in the final analysis the most important component in set up a homeowner insurance program be the selection of the agent a good agent will listen to you, provide sound financial advice and communicate clearly with you and the insurance company when thing go wrong be when you will fully appreciate the agent valuable role"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much Disability Insurance shall I get",
+    "output": "the amount of Disability Insurance you can get be base on a percentage of your income Di policy can offer up to 70% your income combine with Social Security Disability Insurance benefit the total benefit may run even a little high since your benefit be tax free you do not need have 100% your salary replace and Di policy do not offer the option of pay 100% your salary because they do not want you lose the incentive go back work the amount you shall get depend on your circumstance but most expert suggest 60-70% your income"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do a DUI affect Life Insurance",
+    "output": "life insurance cost and rating be based upon the likelihood of death and when it may come many factor be consider 1 those be DUI because someone who have be drinking and driving be far more likely die in an auto crash it will increase their likelihood of a soon death and therefore increase the cost of any life insurance they may otherwise qualify for all other thing be equal, someone with a DUI will pay more for life insurance with multiple DUI you will find some carrier refuse insure the person the answer, of course be not drink and drive let the record clear after several year and you may be able start over again, just like someone who have be cure of cancer for several year thank you Gary Lane"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how determine term Life Insurance amount",
+    "output": "many life insurance expert recommend about 6 to 8 time your annual salary for the amount of term life insurance that you may need; however the figure will depend on your financial need and goal you have factor in that mortgage, education expense for child basically whatever your family will need survive and thrive when you be gone of course since term life insurance be for a specific period of time you will need calculate how long you need this certain amount of money as well"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be long term care insurance benefit taxable",
+    "output": "payment of long-term care claim by an insurance company be generally not taxable as regular income however the policy title page must clearly state the policy be a tax qualified long-term care insurance policy or TQ some carrier still sell non-tax-qualified long-term care policy NTQ in which the benefit may be taxable as regular income the reasoning be NTQ policy be more generous in qualify someone go on claim other policy feature may provide a broad range of care whether those attribute will offset the possible taxation of the benefit be debatable most long-term care policy today be TQ"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I get car insurance if I be bankrupt",
+    "output": "the financial condition of an applicant be not consider for auto insurance in the state of California a bankruptcy not shall affect an application for auto insurance in California auto insurance be based upon year make and model of the vehicle, the driving record of the member of the household, the distance be drive and the location of the household"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "when shall I buy long term care insurance",
+    "output": "the good time buy Long Term care insurance be while you can still qualify for it people be much more likely develop a health condition after age 60 so it be a good idea get the Long Term policy into effect before turn 60 if not soon"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Health Insurance cover breast lift",
+    "output": "generally breast lift not cover by health insurance unless it medically necessary ie. back strain medically necessary procedure it more than likely depend on how it code by your doctor however if it a cosmetic purpose more than likely the answer no. it will need to approve first before the procedure do by your health insurance provider"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I deduct Disability Insurance from tax",
+    "output": "disability insurance can be tax deductible if your business pay for the premium as business expense however be advise: tax deductible disability premium result in taxable benefit at ordinary income tax rate but the good news be you can purchase more coverage"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can Life Insurance check medical record",
+    "output": "that be a great question not only can they but they absolutely do in almost every policy that you apply for will be a paragraph or clausethat state you agree to giveyour consent to the company search of your medical history and prescription record it typically will have a waiver for 2 year of your HIPAA right and will tell you an inquiry will be make to the MIB (medical information bureau this be do protect them from people that may have forget their health history or that may be less than honest in their answer when apply I hope that help thanks for ask"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much be renter insurance a year",
+    "output": "renter insurance be by far 1 the most cost effective insurance policy available and can be purchase for as low as $10 a month or less the cost vary based on several key factor first, the amount of personal property coverage the insured require choose the amount of coverage that be right for you consider the personal property coverage will protect every item you bring with you or purchase since you move into the location second be the amount of personal liability coverage the insured require this portion of the policy protect the insured shall they hold liable for personal injury to someone else or to another individual property the third factor will be type of coverage with the choice between Contents Replacement or Actual Cash value in a nutshell actual Cash value policy pay less per item for any loss since they factor in depreciation and current value of an item where contents replacement only consider how much be spend on the item purchase it originally finally the amount of deductible on the policy will also play a role in determine how much the insured will pay per month the high the deductible, the low the monthly payment"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be 10 yr term Life Insurance",
+    "output": "that be a great question a 10 year term policy be 1 that provide you with the specify amount of coverage for the 10 year as define in your policy on the day your policy expire you have no more coverage and no cash value or benefit take from it you can renew your policy but it will dramatically increase in price typically a policy like this be insure against a short term loss like cover a college career or a mortgage provide a cheap form of life insurance when money be tight if you will like more detail please feel free contact me okay thanks for ask"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be northwestern mutual life insurance a good investment",
+    "output": "when you say investment I have guess you be talk about overfund 1 their permanent life insurance policy northwestern mutual life insurance have be around for a very long time and have a good reputation and product in order to determine if it be a good investment I recommend you request an illustration show the money you will like put in with a minimum death benefit then do the same with at least another company, talk to your broker for suggestion and see how the growth look"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what can you do reduce your auto insurance premium",
+    "output": "there be a lot of thing you can do many company offer discount for bundle your homeowner and your auto policy together, take driver safety course, get good grade in school, drive low annual mile and have a clean driving record talk to your agent or broker make sure you be get all of the discount you deserve you can also lower the premium by raise your deductible or reduce your coverage the make, model and year of your vehicle can also have a dramatic effect on your premium"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how purchase long term Disability Insurance",
+    "output": "purchase long term disability insurance you can contact a broker who can compare multiple policy for you that way you be more likely get the good price for your particular health and occupation once you select a policy you will take a free paramed exam and the insurance company may order medical record when approve you will receive the policy and accept it by pay the first premium"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I claim ultrasound on Medicare",
+    "output": "if the ultrasound be do for a medically necessary reason an ultrasound can be claim on your Medicare coverage if the ultrasound be do for pregnancy (the pregnant woman will most likely be disabled if receive Medicare at an age at which she can carry a baby Medicare will cover ultrasound again as medically necessaary"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "who be the good Life Insurance company in California",
+    "output": "what Steve say be correct when shop for life insurance you want factor in the cost of the insurance and the financial stability of the insurance company it be important the company outlast you so that they can pay the death benefit when you pass the other thing consider be some company may have great rate for term life insurance and other may have great rate for permanent life insurance"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be good term or universal life insurance",
+    "output": "any product consideration need be suitable for the purchaser its no different with term or universal life insurance if your financial liability, future obligation and charitable intent be temporary you shall buy term life insurance if there permanent throughout your life you shall buy guarantee universal life"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will homeowner insurance cover Pool",
+    "output": "in short the answer be yes but it need be clarify whether you be ask for property damage to the pool itself or liability coverage both will be cover bar any specific pool exclusion which I be not aware of any in the standard market if someone be get injured while swim in the pool yes your homeowner policy shall cover you for liability likewise if you pool be damaged due to the standard homeowner cause of loss less any standard exclusion then the pool will be cover for property damage to the pool itself keep in mind wear and tear will not be cover under your policy so if your pool liner rip just because the concrete foundation crack, those will be consider wear and tear please note many insurance carrier be very cautious when write homeowner insurance on home that have pool some do not like write them with a pool exposure, some do not mind, so be sure ask your agent how it may affect your current coverage and future coverage and what the premium impact may be you also want strongly consider high liability limit in purchase an umbrella or if you already have an umbrella policy then high umbrella limit it may cost you $150 for each additional $1 mil limit lastly if you have a pool and want make sure you be cover for the proper limit make sure your coverage b (other structure limit be sufficient cover any loss to your pool and any other structure i.e. detach garage, shed as well"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be a short term Health Insurance policy",
+    "output": "short term Health Insurance be design cover individual who be between job generally they can be purchase in increment of 6 month preexisting condition be not cover they be nonrenewable mean if you have a 6 month policy for example and the 6 month period expire you need enroll in a completely new plan"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will homeowner insurance increase with claim",
+    "output": "that of course will depend upon the term and condition of your policy so it be good talk to your Insurance Professional about this typically upon the renewal after a claim it be possible your company will assess a surcharge that may vary depend upon the nature of the claim"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how much do Medicare pay for a knee replacement",
+    "output": "the cost of complete knee replacement be about $45,000 the Medicare allowance be in the $11,000 range a partial knee replacement be about half that amount as Rick indicate a good Medigap plan can reduce your out of pocket cost to $0 if you have Medicare supplement plan F. a little more with a different plan"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "where get the good Life Insurance",
+    "output": "there be many carrier out there but the good life insurance depend on question be ask and information about the client purchase the coverage what be your goal remember in purchase life insurance it be about you and what your need be agent have many option offer, you shall find 1 that you can trust and then you be honest with them and the relationship become mutual then you can find the good"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do unemployment cover Health Insurance",
+    "output": "although unemployment do not technically offer health insurance there may be other valid option including 1 cobra continuation of coverage which the unemployed person recently have on the prior employer group plan 2 HIPAA portability coverage 3 Medicaid for those with low income for which the unemployed person may qualify 4 a private insurance policy know as an individual / family plan 5 a private short-term policy cover the gap between job or the new hire waiting period impose the new job 6 a conversion policy in some circumstance 7 option in various state for high risk pool or guarantee issue coverage it be important you consult with an expert insurance agent broker in your state because acceptance of 1 these option may disqualify you for another one it be important know your right to coverage, the eligibility rule for that coverage and the timeframes and deadline that apply"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What is the average Annual Premium in kaggle insurance?",
+    "output": "Based on the data, the average Annual Premium is $30564.39, with a median of $31669.00. This indicates the typical cost range for this type of insurance."
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can I purchase Life Insurance on my parent",
+    "output": "the answer be it depend if you be dependent upon your parent for your income and expense or in business with your parent then yes there be an insurable interest however if there be not a clear insurable interest then that answer will be no. if the answer be yes, your parent must be in agreement purchase life insurance even if you be make the payment they have be underwrite and sign the application and contract"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will homeowner insurance cover furnace replacement",
+    "output": "a homeowner policy be design compensate you in the event of damage from a list peril while the list be comprehensive mechanical breakdown not be on the list routine maintenance wear and tear be not routinely cover if the furnace be damage in a fire or when lightning strike the building then the furnace will be cover"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how long will it take get Health Insurance",
+    "output": "this will depend on the type of insurance seek some insurance policy will be effective next day while other be the first the next month answer to some basic health question will start the process toward determine which type of plan may work best for you for help feel free call me at 913-279-0077"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be Double Indemnity Life Insurance",
+    "output": "double indemnity provision can be embed into life insurance policy provide twice the death benefit if death be deem accidental secure a policy that address this keep in mind high premium will be charge cover double indemnity contract the odds of accidental death be not very high so most insurance planner do not address it"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "be Life Insurance require in Ohio",
+    "output": "the State of Ohio do not require Ohio resident purchase life insurance they also do not require employer provide life insurance life insurance be still a voluntary purchase in every state and you be free purchase the amount and type of policy you want and that fit your budget"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be important provision in most Life Insurance policy",
+    "output": "the most important provision in life insurance be convertibility clause in term life insurance and policy loan provision in cash value permanent life insurance other provision that be universal to both be the grace period for payment and the free look at the beginning of the policy lastly the financial credibility of the company issue the contract the contract provision be only as good as the company behind the policy"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Geico renter insurance cover hurricane",
+    "output": "many carrier exclude this type of coverage if you be in the high risk area for that I will recommend call them and see if it be exclude this be why have a local agent rather then an online policy can be an issue when it come to ask question when you have a loss you want your answer right away and it be nice have a local person who know your insurance need and make sure you be cover properly many time client buy online and know nothing about insurance and purchase a policy then later discover they be not cover on something they think be cover also you can always contact your state insurance commissioner office they can assist you also"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be a fully paid-up Life Insurance policy",
+    "output": "a fully paid up life insurance policy mean no premium be necessary keep the policy in force depending on how the policy be build the paid up status may be sometime in the future because you be pay more premium initially or the paid up status can be immediate whole life insurance often time have a pay option during the premium pay year you may see on an illustration a paid up column mean that be the death benefit you can get if you stop pay premium at that time"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be cover with Critical Illness Insurance",
+    "output": "what be cover with critical illness insurance be spell out in each policy and differ from company to company the basic critical illness be stroke, heart attack and some type of cancer the cancer be usually the more serious kind although some policy will pay a partial benefit for mild type of cancer some other critical illness that may be cover be organ transplant, Parkinson, Alzheimer, kidney failure, coronary bypass, blindness, deafness or paralysis"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how do Health Insurance affect worker compensation filing",
+    "output": "your employer group health insurance plan and worker compensation medical coverage usually coordinate with the other worker comp cover work related injury and illness group health insurance cover nonwork related illness and injury sometimes the 2 plan will overlap which may result in a delay in pay the claim until the carrier can determine who have primary responsibility"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Health Insurance cover lupus",
+    "output": "any true major medical insurance policy, group or individual shall cover treatment for lupus as it be an autoimmune disease in the same class as arthritis perhaps a person who be issue an individual health insurance policy that be grandfathered under the term of the health care reform law be issue coverage exclude lupus as a condition of issue the coverage but that be about the only context I can think of where this question can arise certainly in the era of health care reform especially after january 1, 2014 coverage for condition such as lupus shall not be a big point of discussion no policy issue after that date can have pre-existing condition exclusion or limitation that being said how treatment for condition such as lupus be handle from a level of coverage perspective can and do vary from 1 insurance carrier to the next first of all your perception of coverage may be affect the type of policy you have enroll in if you enroll in a policy with a $6000 deductible then your perception may be your condition be not be cover when actually it but you be not see any benefit until you have meet your deductible in other case your insurance carrier may have treatment protocol in place that guide your physician on the method of treatment and type of medication that must be adhere to for treatment of such a condition and these may be a departure from your past experience and usage if you be cover under a non-compliant health plan possibly a limited benefit or indemnity type plan, then it be quite likely you will have little or no coverage for lupus or be subject to pre-existing condition exclusion and/or waiting period short term medical policy which by nature do not cover pre-existing condition be also another possible area where a person can find lupus will not be cover but in today environment a person suffer from lupus can get major medical coverage that cover their condition"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Medigap plan cover prescription drug",
+    "output": "Medigap do not include prescription drug coverage as Bill note you will need purchase a separate part d prescription plan it be good get the part d plan when you be in your initial open enrollment period if you do not have continuous creditable drug coverage you will be penalize and charge a fee on top of your part d premium"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do Medicare cover Weight Loss",
+    "output": "Medicare cover some weight loss program when medically necessary there must be a health condition that will be alleviate weight loss Medicare pay the program can include counseling or if more be need Medicare may pay for more option include gastric bypass surgery under certain condition"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "do homeowner insurance typically cover dry rot",
+    "output": "I be go have give you the boring insurance agent answer: you need check your policy and the peril (cause of loss too see if your policy do indeed cover the loss there be many home insurance policy and I can not comment on your policy, coverage and so on however I will say in my opinion this be a maintenance isse and will not be cover on your home insurance policy it do get frustrating as a homeowner because you can not see everything but we be still responsible for the upkeep and maintenance of our property heck I recently have a hail storm in my area and have put in a claim on my home and find I have dry rot on some window frame and have deal with this issue myself"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how appeal a long term care insurance denial",
+    "output": "appeal a Long Term care insurance denial or Life Insurance denial you must first find out the reason for the denial it may simply be the company be unable secure a certain set of medical record and thus can not make a decision base on lack of information you may be able track down those medical record and be able be approve or your medical record or MIB may state your health in a mistaken way you may be able do additional testing disprove that or get an informative letter from your doctor state the correct information this can be submit directly to the underwriter and/or to the MIB get your information there correct"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "how do I file a claim with Medicare",
+    "output": "Medicare claim be handle electronically medical provider I have never see a paper claim form for Medicare and doubt if it exist all provider that treat Medicare beneficiary be requried file claim with Medicare it do not matter if your provider accept assignment or not they must still file the claim on a timely basis"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "what be the good time buy long term care insurance",
+    "output": "the good time buy now there be no reason delay a purchase since the premium increase at old issue age as do your chance of become uninsurable for long term care insurance.Long term care can impact adult at any age so it be never too soon purchase insurance for it the average age of purchase have be fall in recent years as more people be purchase it at young age (many be buy in their 40s and 50s"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can an 88 year old get Life Insurance",
+    "output": "most nonmed, final expense policy have a cutoff age of 80-85 for policy eligibility therefore 88 year old must apply medically underwrite Life Insurance get coverage this have several implication 1) the minimum face amount be generally high than what you can get in a nonmed final expense policy at that age the minimum be usually $50,000+ this make for a high premium the applicant must qualify medically which can be much more stringent than apply for a no exam policy there be no guarantee issue policy available at age 88 that being said it be possible get life insurance at age 88 if the applicant be in fairly good health and can afford the premium the maximum cutoff for medically underwrite policy that I have see be age 90"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can nursing home take whole life insurance",
+    "output": "to the extent that your whole life insurance have enough cash value you may borrow pay bill for whatever reason you wish however if you be concerned about pay for long term care and who not your good alternative to have a long term care policy be investigate those permanent policy with a long term care rider there be also other method pay for care as well, so contact an independent agent for help and some suggestion"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will Health Insurance pay for Weight Watchers",
+    "output": "the Affordable Care Act do dictate obesity insurance coverage decision for clinical preventive service as recommend the U.S. Preventive Services Task Force the task force do not address what insurance company shall specifically cover so patient must consult their insurance company and also follow recommendation offer a doctor office this can range from intensive counseling (12 to 26 session at the doctor office or refer patient out for weight loss help some insurer be use Weight Watchers for patient referral while other company be pay for membership or offer discount or reimbursement"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "will Medicare cover a MRI",
+    "output": "Medicare part b cover diagnostic test include an MRI when your doctor have determine it be need help diagnose a medical problem part b will pay for 80% the expense - you be responsible for pay the other 20% a Medicare supplement plan will cover these expense"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "why be Health Insurance tie to job",
+    "output": "employer want attract worker and sometimes pay alone be not enough sweeten the pot they add benefit like insurance, vacation pay or sick day the insurance that be offer be own the company itself and not the employee who purchase it the company will also usually pay for some of the cost of that insurance it be only offer you as long as you be employ there and once you leave unless you opt pay cobra price for it it end when your employment do if you have more question please hit the link contact me, I will be happy answer them for you thanks for ask"
+  },
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "can death row inmate get Life Insurance",
+    "output": "that be an excellent question I work with several insurance company and I do not know of a single 1 that will insure someone who currently incarcerate especially 1 on death row insurance company be all about risk and if the applicant be live a lifestyle that include incarceration you can bet they will pass every time generally there will be a period of time that must elapse before they will consider approve the claim unfortunately this be 1 those side effect of negative behavior that be not consider beforehand and become a big problem afterward sorry but thanks for ask"
+  }
+]

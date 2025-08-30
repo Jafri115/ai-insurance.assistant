@@ -1,0 +1,170 @@
+{
+  "generation_timestamp": "2025-08-28T19:01:55.942200",
+  "total_qa_pairs": 94,
+  "category_distribution": {
+    "kaggle": 31,
+    "health-insurance-cross-sell-prediction": 17,
+    "insurance": 6,
+    "public": 6,
+    "auto_insurance": 4,
+    "business_insurance": 4,
+    "health_insurance": 4,
+    "life_insurance": 4,
+    "home_insurance": 4,
+    "general_insurance": 4,
+    "claims_process": 2,
+    "specialty_insurance": 2
+  },
+  "difficulty_distribution": {
+    "basic": 62,
+    "intermediate": 21,
+    "advanced": 11
+  },
+  "source_distribution": {
+    "synthetic_expert": 28,
+    "generated_from_kaggle_insurance_data.csv": 9,
+    "generated_from_health-insurance-cross-sell-prediction_train.csv": 8,
+    "generated_from_kaggle_train.csv": 8,
+    "generated_from_health-insurance-cross-sell-prediction_test.csv": 7,
+    "generated_from_kaggle_test.csv": 7,
+    "generated_from_insurance.csv": 6,
+    "generated_from_insurance_insurance.csv": 6,
+    "generated_from_public_insurance_medical_cost.csv": 6,
+    "generated_from_kaggle_insurance.csv": 5,
+    "generated_from_health-insurance-cross-sell-prediction_sample_submission.csv": 2,
+    "generated_from_kaggle_sample_submission.csv": 2
+  },
+  "dataset_processing_summary": {
+    "insurance.csv": {
+      "qa_count": 6,
+      "category": null,
+      "source_rows": 1338,
+      "file": "insurance.csv_qa.json"
+    },
+    "health-insurance-cross-sell-prediction_sample_submission.csv": {
+      "qa_count": 2,
+      "category": "health-insurance-cross-sell-prediction",
+      "source_rows": 127037,
+      "file": "health-insurance-cross-sell-prediction_sample_submission.csv_qa.json"
+    },
+    "health-insurance-cross-sell-prediction_test.csv": {
+      "qa_count": 7,
+      "category": "health-insurance-cross-sell-prediction",
+      "source_rows": 127037,
+      "file": "health-insurance-cross-sell-prediction_test.csv_qa.json"
+    },
+    "health-insurance-cross-sell-prediction_train.csv": {
+      "qa_count": 8,
+      "category": "health-insurance-cross-sell-prediction",
+      "source_rows": 381109,
+      "file": "health-insurance-cross-sell-prediction_train.csv_qa.json"
+    },
+    "insurance_insurance.csv": {
+      "qa_count": 6,
+      "category": "insurance",
+      "source_rows": 1338,
+      "file": "insurance_insurance.csv_qa.json"
+    },
+    "kaggle_insurance_data.csv": {
+      "qa_count": 9,
+      "category": "kaggle",
+      "source_rows": 1340,
+      "file": "kaggle_insurance_data.csv_qa.json"
+    },
+    "kaggle_insurance.csv": {
+      "qa_count": 5,
+      "category": "kaggle",
+      "source_rows": 1338,
+      "file": "kaggle_insurance.csv_qa.json"
+    },
+    "kaggle_sample_submission.csv": {
+      "qa_count": 2,
+      "category": "kaggle",
+      "source_rows": 127037,
+      "file": "kaggle_sample_submission.csv_qa.json"
+    },
+    "kaggle_test.csv": {
+      "qa_count": 7,
+      "category": "kaggle",
+      "source_rows": 127037,
+      "file": "kaggle_test.csv_qa.json"
+    },
+    "kaggle_train.csv": {
+      "qa_count": 8,
+      "category": "kaggle",
+      "source_rows": 381109,
+      "file": "kaggle_train.csv_qa.json"
+    },
+    "public_insurance_medical_cost.csv": {
+      "qa_count": 6,
+      "category": "public",
+      "source_rows": 1338,
+      "file": "public_insurance_medical_cost.csv_qa.json"
+    },
+    "synthetic_auto_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "auto_insurance_qa.json"
+    },
+    "synthetic_business_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "business_insurance_qa.json"
+    },
+    "synthetic_claims_process_qa": {
+      "qa_count": 1,
+      "category": "synthetic",
+      "source_rows": 1,
+      "file": "claims_process_qa.json"
+    },
+    "synthetic_enhanced_insurance_qa": {
+      "qa_count": 14,
+      "category": "synthetic",
+      "source_rows": 14,
+      "file": "enhanced_insurance_qa.json"
+    },
+    "synthetic_general_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "general_insurance_qa.json"
+    },
+    "synthetic_health_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "health_insurance_qa.json"
+    },
+    "synthetic_home_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "home_insurance_qa.json"
+    },
+    "synthetic_life_insurance_qa": {
+      "qa_count": 2,
+      "category": "synthetic",
+      "source_rows": 2,
+      "file": "life_insurance_qa.json"
+    },
+    "synthetic_specialty_insurance_qa": {
+      "qa_count": 1,
+      "category": "synthetic",
+      "source_rows": 1,
+      "file": "specialty_insurance_qa.json"
+    }
+  },
+  "data_splits": {
+    "train": 65,
+    "validation": 14,
+    "test": 15
+  },
+  "quality_metrics": {
+    "avg_question_length": 59.638297872340424,
+    "avg_answer_length": 216.39361702127658,
+    "categories_covered": 12,
+    "sources_used": 12
+  }
+}

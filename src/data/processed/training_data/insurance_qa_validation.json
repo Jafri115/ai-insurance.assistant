@@ -1,0 +1,7 @@
+[
+  {
+    "instruction": "Answer the health insurance question accurately and helpfully.",
+    "input": "What are the different region options in health insurance?",
+    "output": "The region options include: southwest, southeast, northwest, northeast. These represent different categories that affect insurance pricing and coverage."
+  }
+]

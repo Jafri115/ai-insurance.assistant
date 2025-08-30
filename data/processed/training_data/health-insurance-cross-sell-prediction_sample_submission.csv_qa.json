@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What information is available in the health-insurance-cross-sell-prediction insurance dataset?",
+    "answer": "The health-insurance-cross-sell-prediction insurance dataset contains 127037 records with information about: id, Response. This data helps understand patterns and factors affecting insurance policies.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_sample_submission.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the health-insurance-cross-sell-prediction insurance data?",
+    "answer": "The dataset includes 127,037 insurance records with 2 different attributes. This provides a substantial sample size for analyzing health-insurance-cross-sell-prediction insurance patterns and trends.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_sample_submission.csv",
+    "data_source": "meta"
+  }
+]

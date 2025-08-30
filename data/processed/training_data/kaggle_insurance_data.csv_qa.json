@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What are the different gender options in kaggle insurance?",
+    "answer": "The gender options include: male, female. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different diabetic options in kaggle insurance?",
+    "answer": "The diabetic options include: Yes, No. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different smoker options in kaggle insurance?",
+    "answer": "The smoker options include: No, Yes. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different region options in kaggle insurance?",
+    "answer": "The region options include: southeast, northwest, nan, southwest, northeast. These represent different categories that affect insurance pricing and coverage.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "How does index relate to PatientID in kaggle insurance?",
+    "answer": "There is a positively correlated relationship (correlation: 1.00) between index and PatientID. This means they tend to change together in the same/opposite direction.",
+    "category": "kaggle",
+    "difficulty": "advanced",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "How does index relate to bloodpressure in kaggle insurance?",
+    "answer": "There is a positively correlated relationship (correlation: 0.45) between index and bloodpressure. This means they tend to change together in the same/opposite direction.",
+    "category": "kaggle",
+    "difficulty": "advanced",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "How does index relate to claim in kaggle insurance?",
+    "answer": "There is a positively correlated relationship (correlation: 0.88) between index and claim. This means they tend to change together in the same/opposite direction.",
+    "category": "kaggle",
+    "difficulty": "advanced",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What information is available in the kaggle insurance dataset?",
+    "answer": "The kaggle insurance dataset contains 1340 records with information about: index, PatientID, age, gender, bmi, bloodpressure, diabetic, children.... This data helps understand patterns and factors affecting insurance policies.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the kaggle insurance data?",
+    "answer": "The dataset includes 1,340 insurance records with 11 different attributes. This provides a substantial sample size for analyzing kaggle insurance patterns and trends.",
+    "category": "kaggle",
+    "difficulty": "basic",
+    "source": "generated_from_kaggle_insurance_data.csv",
+    "data_source": "meta"
+  }
+]

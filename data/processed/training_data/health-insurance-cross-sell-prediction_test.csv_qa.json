@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What are the different Gender options in health-insurance-cross-sell-prediction insurance?",
+    "answer": "The Gender options include: Male, Female. These represent different categories that affect insurance pricing and coverage.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different Vehicle Age options in health-insurance-cross-sell-prediction insurance?",
+    "answer": "The Vehicle Age options include: < 1 Year, 1-2 Year, > 2 Years. These represent different categories that affect insurance pricing and coverage.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What are the different Vehicle Damage options in health-insurance-cross-sell-prediction insurance?",
+    "answer": "The Vehicle Damage options include: No, Yes. These represent different categories that affect insurance pricing and coverage.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What is the average Annual Premium in health-insurance-cross-sell-prediction insurance?",
+    "answer": "Based on the data, the average Annual Premium is $30524.64, with a median of $31642.00. This indicates the typical cost range for this type of insurance.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "intermediate",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "How does Age relate to Policy Sales Channel in health-insurance-cross-sell-prediction insurance?",
+    "answer": "There is a negatively correlated relationship (correlation: -0.57) between Age and Policy Sales Channel. This means they tend to change together in the same/opposite direction.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "advanced",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "tabular"
+  },
+  {
+    "question": "What information is available in the health-insurance-cross-sell-prediction insurance dataset?",
+    "answer": "The health-insurance-cross-sell-prediction insurance dataset contains 127037 records with information about: id, Gender, Age, Driving License, Region Code, Previously Insured, Vehicle Age, Vehicle Damage.... This data helps understand patterns and factors affecting insurance policies.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "meta"
+  },
+  {
+    "question": "How comprehensive is the health-insurance-cross-sell-prediction insurance data?",
+    "answer": "The dataset includes 127,037 insurance records with 11 different attributes. This provides a substantial sample size for analyzing health-insurance-cross-sell-prediction insurance patterns and trends.",
+    "category": "health-insurance-cross-sell-prediction",
+    "difficulty": "basic",
+    "source": "generated_from_health-insurance-cross-sell-prediction_test.csv",
+    "data_source": "meta"
+  }
+]
