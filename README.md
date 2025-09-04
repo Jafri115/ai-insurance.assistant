@@ -1,205 +1,132 @@
 # AI Insurance Assistant
 
-A comprehensive AI assistant fine-tuned for insurance-related queries using state-of-the-art language models with LoRA/QLoRA techniques.
+An insurance-focused AI assistant fine-tuned with LoRA on Microsoft Phi-3 Mini (4k instruct). This repo includes training, single-prompt inference, a Gradio chat app, and simple evaluation utilities.
 
-## 🎯 Project Overview
+## What’s included
 
-This project demonstrates advanced AI techniques applied to the insurance domain:
+- LoRA fine-tuning script (`src/fine_tune.py`)
+- Inference utilities and CLI (`src/inference_utils.py`, `src/run_infer.py`)
+- Gradio demo chat app (`src/demo_app.py`)
+- Lightweight evaluation script (`src/evaluate.py`)
+- Trained LoRA adapters under `models/insurance-assistant-gpu/`
 
-- **Fine-tuning**: LoRA/QLoRA fine-tuning of LLaMA, Mistral, or Gemma models
-- **Prompt Engineering**: Specialized prompt templates for insurance Q&A
-- **Dataset Curation**: Insurance-specific datasets with quality filtering
-- **Evaluation**: Comprehensive metrics including perplexity, toxicity, and relevance
-- **Deployment**: Production-ready FastAPI and Gradio interfaces
-- **Monitoring**: Real-time monitoring with Prometheus and Grafana
+Base model: `microsoft/Phi-3-mini-4k-instruct`
 
-## 🚀 Features
-
-- **Multi-Model Support**: Compatible with LLaMA 2/3, Mistral 7B, Gemma 2B/7B
-- **Efficient Training**: QLoRA for memory-efficient fine-tuning
-- **Safety First**: Built-in toxicity detection and content filtering
-- **Production Ready**: Scalable deployment with monitoring and logging
-- **Interactive UI**: User-friendly Gradio interface for testing
-
-## 📁 Project Structure
+## Project structure (key files)
 
 ```
 ai-insurance-assistant/
-├── README.md                # This file
-├── requirements.txt         # Python dependencies
+├── README.md
+├── requirements.txt
+├── infer_and_demo.ipynb
+├── models/
+│   └── insurance-assistant-gpu/           # LoRA adapter (PEFT)
 ├── data/
-│   ├── raw/                # Raw insurance datasets
-│   ├── processed/          # Cleaned and curated data
-│   └── preprocess.py       # Data preprocessing pipeline
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_fine_tuning.ipynb
 │   └── 03_evaluation.ipynb
-├── src/
-│   ├── fine_tune.py        # QLoRA training script
-│   ├── prompts.py          # Prompt templates and engineering
-│   ├── evaluate.py         # Evaluation metrics and benchmarks
-│   ├── app.py              # FastAPI/Gradio deployment
-│   └── monitor.py          # Monitoring and metrics collection
-├── models/                 # Fine-tuned model checkpoints
-├── dashboards/             # Grafana dashboards and logs
-│   ├── grafana.json
-│   └── logs/
-└── LICENSE
+└── src/
+        ├── fine_tune.py
+        ├── inference_utils.py
+        ├── run_infer.py            # single-prompt CLI
+        ├── run_inference.py        # wrapper -> run_infer.py
+        ├── evaluate.py             # simple metrics
+        └── demo_app.py             # Gradio chat UI
 ```
 
-## 🛠️ Setup Instructions
+## Setup
 
-### 1. Environment Setup
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd ai-insurance-assistant
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
+```powershell
+# Windows / PowerShell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
-### 2. Hardware Requirements
+Notes for Windows/CPU:
+- bitsandbytes 4-bit isn’t available on Windows CPU; use the `--no_4bit` flag in commands below.
+- The loader uses eager attention to avoid flash-attn dependency warnings.
 
-- **Minimum**: 16GB RAM, CUDA-compatible GPU with 8GB VRAM
-- **Recommended**: 32GB RAM, RTX 3090/4090 or A100 GPU
-- **Cloud**: Google Colab Pro, AWS EC2 g4dn instances, or similar
+## Inference (single question)
 
-### 3. Dataset Preparation
+Run a one-off answer from the fine-tuned adapter in `models\insurance-assistant-gpu`.
 
-```bash
-# Download and preprocess insurance datasets
-python data/preprocess.py --source insurance_qa --output data/processed/
+```powershell
+python .\src\run_infer.py --question "How do insurance deductibles work?" ^
+    --adapter_path models\insurance-assistant-gpu ^
+    --max_new_tokens 256 --temperature 0.7 --top_p 0.95 --no_4bit --no_sample
 ```
 
-### 4. Model Training
+Common toggles:
+- Remove `--no_sample` to enable sampling (more diverse answers)
+- Adjust `--max_new_tokens` if responses are too short/long
 
-```bash
-# Fine-tune with QLoRA
-python src/fine_tune.py --model_name microsoft/DialoGPT-medium \
-                        --dataset_path data/processed/insurance_qa.json \
-                        --output_dir models/insurance-assistant-v1
+## Gradio demo app (chat UI)
+
+Launch a local chat interface backed by the same model+adapter.
+
+```powershell
+python .\src\demo_app.py --adapter_path models\insurance-assistant-gpu --no_4bit --server_port 7860
+# Open http://127.0.0.1:7860
 ```
 
-### 5. Evaluation
+Optional:
+- `--share` to create a public Gradio link
+- `--server_name 0.0.0.0` to bind on all interfaces
 
-```bash
-# Run comprehensive evaluation
-python src/evaluate.py --model_path models/insurance-assistant-v1 \
-                       --test_data data/processed/test_set.json
+## Evaluation (lightweight)
+
+The evaluation mirrors the notebook’s intrinsic checks (toxicity, domain relevance, semantic similarity) on a small test set.
+
+```powershell
+python .\src\evaluate.py --adapter_path models\insurance-assistant-gpu --no_4bit
 ```
 
-### 6. Deployment
+Example results (from `infer_and_demo.ipynb`):
+- Mean Toxicity: 0.0009 (lower is better)
+- Domain Relevance: 0.7965 (higher is better)
+- Semantic Similarity: 0.7853 (higher is better)
 
-```bash
-# Launch Gradio interface
-python src/app.py --interface gradio --port 7860
+Evaluation report:
 
-# Or launch FastAPI server
-python src/app.py --interface fastapi --port 8000
+```
+==================================================
+EVALUATION REPORT
+==================================================
+Mean Toxicity Score:      0.0009 (Lower is better)
+Domain Relevance Score:   0.7965 (Higher is better)
+Semantic Similarity:      0.7853 (Higher is better)
+==================================================
 ```
 
-## 📊 Datasets
+Heads up:
+- The script will download `sentence-transformers` and Detoxify weights on first run.
+- These numbers are indicative, not a gold-standard benchmark.
 
-The project works with several insurance-related datasets:
+## Training (optional)
 
-1. **Insurance QA**: Question-answer pairs about insurance policies
-2. **Claims Processing**: Automated claims handling scenarios
-3. **Policy Explanations**: Complex policy terms simplified
-4. **Regulatory Compliance**: Insurance law and regulation queries
+Fine-tune a base model with QLoRA + PEFT using your processed datasets.
 
-### Data Sources
-- Kaggle Insurance datasets
-- Publicly available insurance FAQs
-- Synthetic data generation using GPT-4
-- Web scraped insurance documentation (with proper permissions)
-
-## 🔧 Training Configuration
-
-### Supported Models
-- **LLaMA 2 (7B/13B)**: Meta's flagship model
-- **Mistral 7B**: Efficient and powerful
-- **Gemma (2B/7B)**: Google's lightweight option
-- **Custom Models**: Easy to adapt for other architectures
-
-### QLoRA Parameters
-```python
-{
-    "r": 16,                    # LoRA rank
-    "lora_alpha": 32,          # LoRA scaling
-    "lora_dropout": 0.1,       # Dropout rate
-    "target_modules": ["q_proj", "v_proj"],
-    "task_type": "CAUSAL_LM"
-}
+```powershell
+python .\src\fine_tune.py --model_name microsoft/Phi-3-mini-4k-instruct ^
+    --dataset_path data/processed/train.json ^
+    --validation_path data/processed/validation.json ^
+    --output_dir models/insurance-assistant
 ```
 
-## 📈 Evaluation Metrics
+The produced adapter (in `output_dir`) can then be copied or referenced as `--adapter_path` for inference/app/eval.
 
-### Automated Metrics
-- **Perplexity**: Language model confidence
-- **BLEU/ROUGE**: Text similarity scores
-- **Toxicity**: Content safety assessment
-- **Relevance**: Domain-specific accuracy
+## Troubleshooting
 
-### Human Evaluation
-- **Helpfulness**: User satisfaction ratings
-- **Accuracy**: Factual correctness
-- **Clarity**: Response comprehensibility
-- **Safety**: Harmful content detection
+- Stuck at “Loading checkpoint shards”: ensure PyTorch is installed and `--no_4bit` is used on Windows CPU. Try reducing `--max_new_tokens` for a quick sanity check.
+- Flash-attn warnings are expected; the code forces eager attention for compatibility.
+- If VRAM is limited, keep `--max_new_tokens` small and avoid sampling.
 
-## 🚀 Deployment Options
+## License
 
-### Local Development
-```bash
-# Gradio interface
-python src/app.py --mode gradio
+MIT – see [LICENSE](LICENSE).
 
-# FastAPI with docs
-python src/app.py --mode fastapi
-# Access: http://localhost:8000/docs
-```
-
-### Production Deployment
-```bash
-# Docker deployment
-docker build -t ai-insurance-assistant .
-docker run -p 8000:8000 ai-insurance-assistant
-
-# Kubernetes deployment
-kubectl apply -f k8s/deployment.yaml
-```
-
-## 📊 Monitoring & Observability
-
-### Metrics Tracked
-- **Response Latency**: API response times
-- **Toxicity Rate**: Percentage of flagged responses
-- **Model Drift**: Performance degradation over time
-- **User Satisfaction**: Feedback scores
-
-### Grafana Dashboard
-- Import `dashboards/grafana.json` for pre-built visualizations
-- Monitor real-time inference metrics
-- Track model performance trends
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note**: This project is for educational and research purposes. Always verify insurance information with qualified professionals.
+Disclaimer: This assistant is for educational purposes; verify insurance information with qualified professionals.
